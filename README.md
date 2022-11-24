@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/salihkertik](https://github.com/salihkertik)
 
-- 💬 Ask me about **Android Studyo**
+- 💬 Ask me about **Android Studio**
 
 - 📫 How to reach me **salihkertik1453@gmail.com**
 
