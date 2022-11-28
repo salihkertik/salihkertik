@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Salih Kertik</h1>
+<h1 align="center">Hi there👋, I'm Salih</h1>
 <h3 align="center">A passionate Android Studyo developer from Turkey</h3>
 <img align="right" alt="Coding" width ="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
