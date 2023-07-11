@@ -30,7 +30,7 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </p>
 
 <p float="left">
-<img align height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=salihkertik&show_icons=true&locale=en&layout=compact" alt="salihkertik" /> 
+<img align height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=salihkertik&show_icons=true&locale=en&layout=compact" alt="salihkertik"/> 
 &nbsp;<img align height="150" src="https://github-readme-stats.vercel.app/api?username=salihkertik&show_icons=true&locale=en" alt="salihkertik" />
 </p>
 
