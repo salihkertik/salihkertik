@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/salihkertik" target="blank"><img src="https://img.shields.io/twitter/follow/salihkertik?logo=twitter&style=for-the-badge" alt="salihkertik" /></a> </p>
 
-- 🌱 I’m currently learning **SWİFT**
+- 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 All of my projects are available at [https://github.com/salihkertik](https://github.com/salihkertik)
 
-- 💬 Ask me about **İOS DEVELOPMENT**
+- 💬 Ask me about **iOS DEVELOPMENT**
 
 - 📫 How to reach me **salihkertik1453@gmail.com**
 
