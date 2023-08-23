@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="salihkertik1453@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="salihkertik" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="salihkertik1453@gmail.com" height="30" width="40" /></a>
 <a href="https://twitter.com/salihkertik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salihkertik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/salihkertik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salihkertik/" height="30" width="40" /></a>
 <a href="https://instagram.com/salihkertk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salihkertk" height="30" width="40" /></a>
