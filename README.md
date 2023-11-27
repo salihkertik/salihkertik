@@ -31,10 +31,9 @@
 
 <p float="left">
 <img align height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=salihkertik&show_icons=true&locale=en&layout=compact" alt="salihkertik"/> 
-&nbsp;<img align height="150" src="https://github-readme-stats.vercel.app/api?username=salihkertik&show_icons=true&locale=en" alt="salihkertik" />
+&nbsp;
 </p>
 
 
-<p> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=salihkertik&" alt="salihkertik" widht="200" height="165" /> </p>
 
 
